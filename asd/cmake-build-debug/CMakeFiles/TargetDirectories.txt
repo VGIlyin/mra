@@ -1,0 +1,3 @@
+/home/vilyin/Projects/MIREA_lang/gosling/cmake-build-debug/CMakeFiles/gosling.dir
+/home/vilyin/Projects/MIREA_lang/gosling/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vilyin/Projects/MIREA_lang/gosling/cmake-build-debug/CMakeFiles/rebuild_cache.dir
